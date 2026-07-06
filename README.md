@@ -63,29 +63,11 @@ Backend Developer passionate about building secure, scalable, and maintainable w
 
 A Laravel RESTful API for managing educational centers with role-based authentication and authorization.
 
-**Highlights**
-- Laravel Sanctum Authentication
-- Role-Based Access Control
-- Courses & Lessons Management
-- Student Enrollment
-- Form Requests Validation
-- API Resources
-- Policies & Middleware
-- Factory & Seeder Support
-
 ---
 
 ## 🎬 Docker Media Server Automation
 
 A fully Dockerized self-hosted media server powered by Jellyfin, Nginx, and n8n automation.
-
-**Highlights**
-- Docker Compose
-- Jellyfin Media Server
-- Telegram Notifications
-- Nginx Reverse Proxy
-- Local HTTPS using mkcert
-- Automated Workflows with n8n
 
 ---
 
@@ -93,29 +75,11 @@ A fully Dockerized self-hosted media server powered by Jellyfin, Nginx, and n8n 
 
 A graduation project that provides a complete online learning environment for students and instructors.
 
-**Highlights**
-- Video Meetings with Interactive Classroom
-- Whiteboard & Live Teaching
-- Course & Library Management
-- Online Exams
-- Calendar & Event Management
-- Student Evaluation System
-- Notifications
-- Learning Resources
-
 ---
 
 ## 🛒 MVC E-Commerce Platform
 
 An e-commerce web application built using the MVC architecture with PHP and MySQL.
-
-**Highlights**
-- Authentication System
-- Product Management
-- Shopping Cart
-- Order Management
-- Admin Dashboard
-- MySQL Database Design
 
 ---
 
@@ -124,19 +88,17 @@ An e-commerce web application built using the MVC architecture with PHP and MySQ
 - Advanced Laravel
 - Design Patterns
 - Laravel Queues & Events
-- Caching
 - Testing
 - Docker for Production
 - CI/CD
 - Software Architecture
-
 ---
 
 # 📫 Connect With Me
 
-💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN
+💼 **LinkedIn:** https://www.linkedin.com/in/tamer-ayman-a2867a418/
 
-📧 **Email:** YOUR_EMAIL@example.com
+📧 **Email:** tameraynan1@gmail.com 
 
 🌐 **Portfolio:** Coming Soon
 
