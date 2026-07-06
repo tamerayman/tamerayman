@@ -83,17 +83,6 @@ An e-commerce web application built using the MVC architecture with PHP and MySQ
 
 ---
 
-# 📈 Currently Learning
-
-- Advanced Laravel
-- Design Patterns
-- Laravel Queues & Events
-- Testing
-- Docker for Production
-- CI/CD
-- Software Architecture
----
-
 # 📫 Connect With Me
 
 💼 **LinkedIn:** https://www.linkedin.com/in/tamer-ayman-a2867a418/
