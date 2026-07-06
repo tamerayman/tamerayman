@@ -1,46 +1,59 @@
-**# Hi, I'm Tamer Ayman 👋
+<h1 align="center">
+Hi, I'm Tamer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
-### Backend Developer
-
-Backend Developer passionate about building scalable web applications and RESTful APIs using PHP and Laravel. I enjoy designing clean backend architectures, working with databases, and turning ideas into real-world solutions.
-
----
-
-## 🚀 Tech Stack
-
-### Backend
-- PHP
-- Laravel
-- RESTful APIs
-- OOP
-- MVC
-
-### Database
-- MySQL
-- SQL
-
-### Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-
-### Tools
-- Git
-- GitHub
-- Docker
-- Linux
-- Postman
+<p align="center">
+Backend Developer passionate about building secure, scalable, and maintainable web applications using <strong>PHP</strong> and <strong>Laravel</strong>, with a strong focus on <strong>RESTful API development</strong>, clean architecture, and database design.
+</p>
 
 ---
 
-## 🎯 Interests
+# 💻 Tech Stack
 
-- Backend Development
-- RESTful API Design
-- Database Design
-- Software Architecture
-- Docker & Containerization
+<p>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/OOP-5C2D91?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/MVC-0F766E?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+</p>
+
+---
+
+# 🎯 Interests
+
+- 🚀 Backend Development
+- 🌐 RESTful API Design
+- 🗄️ Database Design & Optimization
+- 🏗️ Software Architecture
+- 🔐 Authentication & Authorization
+- 🐳 Docker & Containerization
+- ⚡ Performance Optimization
+- 📖 Clean Code & Best Practices
 
 ---
 
@@ -48,50 +61,93 @@ Backend Developer passionate about building scalable web applications and RESTfu
 
 ## 🎓 Center Management API
 
-A scalable RESTful API built with Laravel for managing educational centers, courses, lessons, exams, attendance, notifications, and student progress using secure authentication and role-based authorization.
+A Laravel RESTful API for managing educational centers with role-based authentication and authorization.
 
-**Tech Stack**
-
-`Laravel` `PHP` `MySQL` `REST API` `Laravel Sanctum`
-
----
-
-## 🎬 Docker Media Server
-
-A self-hosted media server built with Docker, integrating Jellyfin, Nginx Reverse Proxy, and n8n to automate media management and provide secure streaming.
-
-**Tech Stack**
-
-`Docker` `Jellyfin` `Nginx` `n8n`
+**Highlights**
+- Laravel Sanctum Authentication
+- Role-Based Access Control
+- Courses & Lessons Management
+- Student Enrollment
+- Form Requests Validation
+- API Resources
+- Policies & Middleware
+- Factory & Seeder Support
 
 ---
 
-## 🎓 Smart College Management & E-Learning Platform
+## 🎬 Docker Media Server Automation
 
-A full-stack graduation project that digitizes academic management through course management, online classrooms, examinations, attendance tracking, digital resources, and BigBlueButton integration.
+A fully Dockerized self-hosted media server powered by Jellyfin, Nginx, and n8n automation.
 
-**Tech Stack**
+**Highlights**
+- Docker Compose
+- Jellyfin Media Server
+- Telegram Notifications
+- Nginx Reverse Proxy
+- Local HTTPS using mkcert
+- Automated Workflows with n8n
 
-`PHP` `MySQL` `JavaScript` `Bootstrap` `BigBlueButton API`
+---
+
+## 📚 Smart College Management & E-Learning Platform
+
+A graduation project that provides a complete online learning environment for students and instructors.
+
+**Highlights**
+- Video Meetings with Interactive Classroom
+- Whiteboard & Live Teaching
+- Course & Library Management
+- Online Exams
+- Calendar & Event Management
+- Student Evaluation System
+- Notifications
+- Learning Resources
 
 ---
 
 ## 🛒 MVC E-Commerce Platform
 
-An e-commerce web application developed using the MVC architecture with authentication, product management, shopping cart functionality, and order processing.
+An e-commerce web application built using the MVC architecture with PHP and MySQL.
 
-**Tech Stack**
-
-`PHP` `MySQL` `MVC` `JavaScript` `Bootstrap`
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: YOUR_EMAIL@example.com
-- 🌐 Portfolio: Coming Soon
+**Highlights**
+- Authentication System
+- Product Management
+- Shopping Cart
+- Order Management
+- Admin Dashboard
+- MySQL Database Design
 
 ---
 
-⭐ Thanks for visiting my profile!**
+# 📈 Currently Learning
+
+- Advanced Laravel
+- Design Patterns
+- Laravel Queues & Events
+- Caching
+- Testing
+- Docker for Production
+- CI/CD
+- Software Architecture
+
+---
+
+# 📫 Connect With Me
+
+💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN
+
+📧 **Email:** YOUR_EMAIL@example.com
+
+🌐 **Portfolio:** Coming Soon
+
+🐙 **GitHub:** https://github.com/tamerayman
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+Always learning, always building, and always improving.
+</p>
